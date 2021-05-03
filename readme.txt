@@ -1,0 +1,1 @@
+To run this interface, all you have to do is hit run or type "calculator" in the command window. This will pull up a simple blue calculator that can then be used as such. The "CE" key is the Clear key and the "<--" key is the delete key. Once you have entered in your calculation hit the "=" key and it will give you your answer.
